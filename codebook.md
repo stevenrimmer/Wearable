@@ -1,5 +1,9 @@
 # Codebook
 
+The raw data for the project is available here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The wearables_summary.txt file contains a data set which combines the 'test' and 'train' data.
 
 From the raw data file 'X_test.txt' the columns relating to mean and standard deviation are selected. This file is then reshaped into a tidy format. 
