@@ -1,4 +1,4 @@
-#Code book
+# Codebook
 
 The wearables_summary.txt file contains a data set which combines the 'test' and 'train' data.
 
